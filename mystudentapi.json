@@ -1,0 +1,174 @@
+{
+  "mystudent": [
+    {
+      "id": "1",
+      "name": "John",
+      "location": "india",
+      "phone": "1234567890",
+      "courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Kin",
+      "location": "US",
+      "phone": "98876543213",
+      "courses": [
+        "Python",
+        "Applus"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Saith",
+      "location": "Canada",
+      "phone": "165498765",
+      "courses": [
+        "Ca",
+        "RestAPI"
+      ]
+    },
+    {
+      "id": "64de",
+      "name": "scott",
+      "location": "france",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "id": "bdaa",
+      "name": "scott",
+      "location": "france",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "id": "d79b",
+      "name": "scott",
+      "location": "france",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "id": "65a7",
+      "name": "scott",
+      "location": "france",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "id": "a9df",
+      "name": "scott",
+      "location": "france",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "id": "11bf",
+      "name": "scott",
+      "location": "france",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "id": "ba53",
+      "name": "scott",
+      "location": "france",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "id": "44b1",
+      "name": "scott",
+      "location": "france",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "id": "a330",
+      "name": "scott",
+      "location": "france",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "id": "f3da",
+      "name": "scott",
+      "location": "france",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "id": "43ed",
+      "name": "scott",
+      "location": "france",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "id": "4ea6",
+      "name": "scott",
+      "location": "france",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "id": "75c5",
+      "name": "scott",
+      "location": "france",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "id": "173e",
+      "name": "scott",
+      "location": "france",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    }
+  ]
+}
